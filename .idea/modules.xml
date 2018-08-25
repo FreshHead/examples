@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chartjs_example/chartjs_example.iml" filepath="$PROJECT_DIR$/chartjs_example/chartjs_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excel_validation.iml" filepath="$PROJECT_DIR$/.idea/modules/excel_validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excel_validation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/excel_validation_main.iml" group="excel_validation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excel_validation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/excel_validation_test.iml" group="excel_validation" />
+      <module fileurl="file://$PROJECT_DIR$/react_context_example/react_context_example.iml" filepath="$PROJECT_DIR$/react_context_example/react_context_example.iml" />
+    </modules>
+  </component>
+</project>
